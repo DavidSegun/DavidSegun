@@ -142,21 +142,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=David%20Segun&theme=dark&card_width=600)](https://git.io/streak-stats)
 
-
-## Let's Connect!!!  
-
-
 <br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
-
-----
